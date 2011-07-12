@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="c:\users\dan.glyde\documents\visual studio 2010\Projects\TDDBlog\TDDBlog.Tests\bin\Debug\TDDBlog.Tests.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2011-07-11" time="16:19:17">
+  <environment nunit-version="2.5.10.11092" clr-version="2.0.50727.4959" os-version="Microsoft Windows NT 6.1.7600.0" platform="Win32NT" cwd="c:\users\dan.glyde\documents\visual studio 2010\Projects\TDDBlog\TDDBlog.Tests\bin\Debug" machine-name="NH-DESKTOP-235" user="dan.glyde" user-domain="WIGGLEDOMAIN" />
+  <culture-info current-culture="en-GB" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="c:\users\dan.glyde\documents\visual studio 2010\Projects\TDDBlog\TDDBlog.Tests\bin\Debug\TDDBlog.Tests.dll" executed="True" result="Success" success="True" time="1.040" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="TDDBlog" executed="True" result="Success" success="True" time="1.023" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="1.022" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="Controllers" executed="True" result="Success" success="True" time="1.022" asserts="0">
+                <results>
+                  <test-suite type="TestFixture" name="BlogControllerTest" executed="True" result="Success" success="True" time="1.020" asserts="0">
+                    <results>
+                      <test-case name="TDDBlog.Tests.Controllers.BlogControllerTest.IndexReturnsAListOfBlogEntriesWithCorrectUrls" executed="True" result="Success" success="True" time="0.995" asserts="12" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

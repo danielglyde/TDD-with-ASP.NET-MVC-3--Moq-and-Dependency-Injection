@@ -1,0 +1,5 @@
+c:\users\dan.glyde\documents\visual studio 2010\Projects\TDDBlog\TDDBlog\bin\TDDBlog.dll
+c:\users\dan.glyde\documents\visual studio 2010\Projects\TDDBlog\TDDBlog\bin\TDDBlog.pdb
+c:\users\dan.glyde\documents\visual studio 2010\Projects\TDDBlog\TDDBlog\obj\Debug\ResolveAssemblyReference.cache
+c:\users\dan.glyde\documents\visual studio 2010\Projects\TDDBlog\TDDBlog\obj\Debug\TDDBlog.dll
+c:\users\dan.glyde\documents\visual studio 2010\Projects\TDDBlog\TDDBlog\obj\Debug\TDDBlog.pdb

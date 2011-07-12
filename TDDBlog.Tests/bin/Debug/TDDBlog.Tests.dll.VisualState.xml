@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1002]c:\users\dan.glyde\documents\visual studio 2010\Projects\TDDBlog\TDDBlog.Tests\bin\Debug\TDDBlog.Tests.dll</TopNode>
+  <SelectedNode>[0-1002]c:\users\dan.glyde\documents\visual studio 2010\Projects\TDDBlog\TDDBlog.Tests\bin\Debug\TDDBlog.Tests.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1002]c:\users\dan.glyde\documents\visual studio 2010\Projects\TDDBlog\TDDBlog.Tests\bin\Debug\TDDBlog.Tests.dll" Expanded="true" />
+    <Node UniqueName="[0-1003]TDDBlog" Expanded="true" />
+    <Node UniqueName="[0-1004]TDDBlog.Tests" Expanded="true" />
+    <Node UniqueName="[0-1005]TDDBlog.Tests.Controllers" Expanded="true" />
+    <Node UniqueName="[0-1000]TDDBlog.Tests.Controllers.BlogControllerTest" Expanded="true" />
+  </Nodes>
+</VisualState>

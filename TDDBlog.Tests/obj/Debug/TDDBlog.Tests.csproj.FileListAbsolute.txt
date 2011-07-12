@@ -1,0 +1,10 @@
+c:\users\dan.glyde\documents\visual studio 2010\Projects\TDDBlog\TDDBlog.Tests\bin\Debug\TDDBlog.Tests.dll
+c:\users\dan.glyde\documents\visual studio 2010\Projects\TDDBlog\TDDBlog.Tests\bin\Debug\TDDBlog.Tests.pdb
+c:\users\dan.glyde\documents\visual studio 2010\Projects\TDDBlog\TDDBlog.Tests\bin\Debug\Moq.dll
+c:\users\dan.glyde\documents\visual studio 2010\Projects\TDDBlog\TDDBlog.Tests\bin\Debug\nunit.framework.dll
+c:\users\dan.glyde\documents\visual studio 2010\Projects\TDDBlog\TDDBlog.Tests\bin\Debug\nunit.framework.xml
+c:\users\dan.glyde\documents\visual studio 2010\Projects\TDDBlog\TDDBlog.Tests\obj\Debug\ResolveAssemblyReference.cache
+c:\users\dan.glyde\documents\visual studio 2010\Projects\TDDBlog\TDDBlog.Tests\obj\Debug\TDDBlog.Tests.dll
+c:\users\dan.glyde\documents\visual studio 2010\Projects\TDDBlog\TDDBlog.Tests\obj\Debug\TDDBlog.Tests.pdb
+c:\users\dan.glyde\documents\visual studio 2010\Projects\TDDBlog\TDDBlog.Tests\bin\Debug\TDDBlog.dll
+c:\users\dan.glyde\documents\visual studio 2010\Projects\TDDBlog\TDDBlog.Tests\bin\Debug\TDDBlog.pdb
